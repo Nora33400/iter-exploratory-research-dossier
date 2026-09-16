@@ -30,7 +30,8 @@ Ce depot ne revendique aucune decouverte demontree. L'originalite des contributi
 ## Liens
 
 - Depot GitHub: https://github.com/Nora33400/iter-exploratory-research-dossier
-- Dossier Drive fourni par Nora: https://drive.google.com/drive/folders/1HeYt9b7QejQBD0Lzj4S5LD1AE2KJfFIq?usp=sharing
+- Drive reorganise du dossier public: https://drive.google.com/drive/folders/1HeYt9b7QejQBD0Lzj4S5LD1AE2KJfFIq?usp=sharing
+- Synthese des projets/prototypes a revoir pour GitHub: `11_ARCHIVE_ET_MANIFESTES/PUBLIC_PROJECTS_TO_REVIEW_FOR_GITHUB.md`
 
 ## Securite
 
