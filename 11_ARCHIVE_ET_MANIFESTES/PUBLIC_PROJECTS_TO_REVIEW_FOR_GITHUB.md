@@ -71,3 +71,16 @@ Ces familles ont ete reperees comme projets/prototypes locaux plausibles. Elles 
 3. `qiskit / quantum exploratoire` comme depot de simulations reproductibles, avec limites scientifiques.
 4. `AIONE Product Workspace` par modules separes, pas en monorepo brut.
 5. Exports TileMindFS deja publics: verifier et synchroniser en dernier.
+
+## Ajout lot 777 - COSMOS, TimeWarp et FractalFormulaCorpus
+
+Le lot 777 ajoute une revue publique ciblee sans publier les racines originales completes.
+
+| Element | Racines auditees | Publication dans ce depot | Remarque |
+| --- | --- | --- | --- |
+| COSMOS | lecteur S | `12_PROJETS_777_A_COMPLETER/COSMOS/` | Selection Markdown uniquement; archives et fichiers massifs exclus. |
+| TimeWarp | lecteurs S et F | `12_PROJETS_777_A_COMPLETER/TIMEWARP/` | Inventaire SHA-256 des archives; code complet a relire avant depot dedie. |
+| FractalFormulaCorpus | lecteurs S et F, Drive public reference | `12_PROJETS_777_A_COMPLETER/FRACTAL_FORMULA_CORPUS/` | Corpus brut non pousse; manifestes publics de chunks et archives. |
+| Projets zippes/dezippes | racines ciblees | `LOT_777_PROJECTS_PUBLIC_REVIEW_v0.1.0.zip` | Zip public de revue contenant uniquement les manifestes et fichiers selectionnes. |
+
+Decision de securite: les fichiers bruts volumineux, les historiques d'assistant, les backups, les environnements, les archives non extraites et les donnees non relues ne sont pas publies.

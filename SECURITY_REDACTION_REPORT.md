@@ -17,3 +17,7 @@ The candidate material was scanned for markers of secrets, API keys, tokens, pri
 ## Public publication boundary
 
 Raw scan inventories are not included in this public repository because they contain local source paths and review details. This report does not guarantee the absolute absence of secrets; it records the prepublication controls performed before publication.
+
+## Lot 777 update
+
+The COSMOS / TimeWarp / FractalFormulaCorpus lot was added as a public review package. The publication boundary remains conservative: selected COSMOS Markdown files and public manifests are included, while raw local paths, massive corpus chunks, unreviewed archives, assistant histories, backups, caches, private working inventories, and the large `hashkiller24.txt` file are excluded.

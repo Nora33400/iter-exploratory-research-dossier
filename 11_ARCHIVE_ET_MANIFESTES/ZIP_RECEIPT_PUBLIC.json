@@ -1,8 +1,10 @@
 {
-  "archive_file": "11_ARCHIVE_ET_MANIFESTES/ITER_public_dossier_v0.1.0_github_public.zip",
-  "bytes": 154720,
-  "sha256": "530BF2479BD1DC4D3ACA5CDDED46CDB89B2AB58BC373B95B6DD423961A0947D4",
-  "created": "2026-09-16T09:15:26",
-  "note": "Archive generated from the sanitized GitHub public staging copy before the archive itself was added to the repository. Includes public project review summary and reorganized Drive link in README.",
-  "local_paths_redacted": true
+  "generated_at": "2026-09-16T09:28:39",
+  "main_zip": "11_ARCHIVE_ET_MANIFESTES/ITER_public_dossier_v0.1.0_github_public.zip",
+  "main_zip_bytes": 509170,
+  "main_zip_sha256": "25E194AB35436AECBFCD25EA337E1CA9C74233E527FE743BD3F24806CE797A45",
+  "lot_777_zip": "11_ARCHIVE_ET_MANIFESTES/LOT_777_PROJECTS_PUBLIC_REVIEW_v0.1.0.zip",
+  "lot_777_zip_bytes": 174586,
+  "lot_777_zip_sha256": "39EA3577D414DB8E8ABF0978E2E23A566DB369DC8383C65FF19FE8813DC52AAD",
+  "note": "Receipt is external to the ZIP hash closure; main ZIP excludes .git, itself, and ZIP_RECEIPT_PUBLIC.json."
 }

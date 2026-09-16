@@ -8,6 +8,7 @@ The following materials were intentionally excluded from the GitHub publication 
 - Rendered PDF QA images.
 - Backup copies of previous generated PDFs.
 - Reports whose useful content was replaced by public sanitized versions.
+- Lot 777 raw source roots, including unreviewed archives, massive corpus chunks, assistant histories, backups, caches, and `hashkiller24.txt`.
 
 Counts from the private prepublication audit:
 

@@ -1,0 +1,40 @@
+{
+  "package": "COSMOS-F Prompts Direction / Transversal / Continuite",
+  "version": "1.0",
+  "files": [
+    "README.md",
+    "01_PROMPT_DIRECTION_DE_PROJET.md",
+    "02_PROMPT_STRUCTURATION_TRANSVERSALE.md",
+    "03_PROMPT_CONTINUITE_OBJECTIVE.md",
+    "MANIFEST.json"
+  ],
+  "structures_targeted": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "core_invariants": [
+    "EXPLORER != VALIDER != EXECUTER",
+    "POSSIBLE != VRAI != ACTIVABLE != EXECUTE",
+    "CAPABILITY != PERMISSION",
+    "SIMULATION != OBSERVATION",
+    "MODEL != WORLD",
+    "COUNTERFACTUAL != HISTORY",
+    "CHRONOLOGIE != CAUSALITE",
+    "VIEW_PAST != ACTIVE_REVERT",
+    "PARTIAL != COMPLETE"
+  ],
+  "sha256": {
+    "README.md": "3bf0ad91f55217d257877f83aca624f48421103cb45d0d523328b550e22120ab",
+    "01_PROMPT_DIRECTION_DE_PROJET.md": "ec231b76ec43a31374ce02aceb82208ddf6d7586c571cd4cfca2da992555cf5e",
+    "02_PROMPT_STRUCTURATION_TRANSVERSALE.md": "a9089ed5e06c8e2ae213ea5ee674aa287bb41f315c2f8abb55aaed384cedcc73",
+    "03_PROMPT_CONTINUITE_OBJECTIVE.md": "3a4a3226147f82cfe7ae562d6689ddf389b2025701beb70ddbe327536572e0e2"
+  }
+}

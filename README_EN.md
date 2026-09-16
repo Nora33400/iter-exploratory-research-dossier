@@ -26,12 +26,14 @@ This repository does not claim any demonstrated discovery. Originality remains t
 - `01_SYNTHESE_SCIENTIFIQUE/`
 - `09_LIMITES_ET_FALSIFICATION/`
 - `11_ARCHIVE_ET_MANIFESTES/`
+- `12_PROJETS_777_A_COMPLETER/`
 
 ## Links
 
 - GitHub repository: https://github.com/Nora33400/iter-exploratory-research-dossier
 - Reorganized public Drive folder: https://drive.google.com/drive/folders/1HeYt9b7QejQBD0Lzj4S5LD1AE2KJfFIq?usp=sharing
 - Public summary of projects/prototypes to review for GitHub: `11_ARCHIVE_ET_MANIFESTES/PUBLIC_PROJECTS_TO_REVIEW_FOR_GITHUB.md`
+- Lot 777 COSMOS / TimeWarp / FractalFormulaCorpus: `12_PROJETS_777_A_COMPLETER/README_LOT_777.md`
 
 ## Security
 
