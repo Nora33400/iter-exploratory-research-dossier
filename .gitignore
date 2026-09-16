@@ -1,0 +1,11 @@
+# Local/private material intentionally excluded
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*token*
+*secret*
+11_ARCHIVE_ET_MANIFESTES/scan/
+11_ARCHIVE_ET_MANIFESTES/pdf_rendered_pages*/
+*.before_finalisation.pdf
